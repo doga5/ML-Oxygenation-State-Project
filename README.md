@@ -1,4 +1,4 @@
-# Machine Learning Approaches for Predicting Cellular Oxidation States in Breast Cancer Cell Lines
+# Machine Learning Approaches for Predicting Cellular Oxygenation States in Breast Cancer Cell Lines
 
 Hypoxia, low oxygen availability, is a key feature of tumor biology, driving cancer cells toward more aggressive, treatment-resistant behavior. Being able to identify whether a cell is in hypoxic or normoxic conditions is therefore essential for understanding cancer progression.
 
